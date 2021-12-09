@@ -1,2 +1,2 @@
-# youtube-dl
+# YouTube Downloader
 A simple YouTube downloader.
