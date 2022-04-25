@@ -1,1 +1,1 @@
-YouTube Downloader|[1]|youtube.icon.png|[1]|window.location.href='youtube-dl.htm';
+YouTube Downloader|[1]|sys.youtube.png|[1]|window.location.href='youtube-dl.htm';
