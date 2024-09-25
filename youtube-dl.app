@@ -1,1 +1,0 @@
-title|[>]|YouTube Downloader|[1]|favicon|[>]|sys.youtube.png|[1]|run|[>]|window.location.href='youtube-dl.htm';
