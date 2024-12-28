@@ -1,1 +1,1 @@
-{"author":"infofintech","host":"https:\/\/github.com","version":"1.1","branch":"main","initial_release":"2021","description":"A simple YouTube downloader.","title":"YouTube Downloader","type":"Web Application","files":"youtube-dl.htm;"}
+{"author":"infofintech","host":"https:\/\/github.com","version":"1.2.5","branch":"main","initial_release":"2021","description":"A simple YouTube downloader.","title":"YouTube Downloader","type":"Web Application","run":"youtube-dl.htm","favicon":"youtube-dl.icon.png","files":"youtube-dl-icon.png;youtube-dl.htm;"}
